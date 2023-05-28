@@ -17,6 +17,7 @@ class ProductPurchase extends Common {
     this.$verificationMessage = () =>
       $('//div[@class="pop_header"]//div[@class="pop_tle ng-binding"]');
   }
+  
   /**
    * Launch the valid Url.
    * @param {string} url
