@@ -34,4 +34,5 @@ describe("Register with valid details and purchase a product", () => {
       "Verification Message Sent"
     );
   });
+  
 });
